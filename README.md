@@ -1,0 +1,2 @@
+# ObjectsToParticle
+Maya python script 
